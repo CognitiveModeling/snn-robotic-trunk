@@ -7,8 +7,11 @@ This repository contains the source code for training and control of two robotic
     title = {Many-Joint Robot Arm Control with Recurrent Spiking Neural Networks},
     author = {Manuel Traub and Robert Legenstein and Sebastian Otte},
     booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-    year = {2021}
+    year = {2021},
+    month = sep,
+    pages = {4895--4902}
 }
+
 ```
 
 A preprint is available on arXiv:
