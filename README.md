@@ -1,6 +1,22 @@
 ## Many-Joint Robot Arm Control with Recurrent Spiking NeuralNetworks
 
-Repository containing the source code to train and infere both robots from the paper
+This repository contains the source code for training and control of two robotic trunk variants from our paper *Many-Joint Robot Arm Control with Recurrent Spiking Neural Networks* (presented at IROS 2021).
+
+```bibtex
+@inproceedings{traub2021manyjoint,
+    title = {Many-Joint Robot Arm Control with Recurrent Spiking Neural Networks},
+    author = {Manuel Traub and Robert Legenstein and Sebastian Otte},
+    booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    year = {2021}
+}
+```
+
+A preprint is available on arXiv:
+https://arxiv.org/abs/2104.04064
+
+
+CAD trunk models can be found here:
+https://www.myminifactory.com/object/3d-print-trunk-like-many-joint-robotic-arm-154230
 
 ### Compilation
 Requirements are cmake, cuda, VTK and devil (image library).
